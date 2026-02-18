@@ -8,18 +8,9 @@ Android heart rate monitor
 
 Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute.
 
-* Created by Justin Wetherell
-* For details on how it works, see the wiki: http://github.com/phishman3579/android-heart-rate-monitor/wiki/How-it-works
-* For questions use: http://groups.google.com/forum/#!forum/android-heart-rate-monitor
-* Google: http://code.google.com/p/android-heart-rate-monitor
-* Github: http://github.com/phishman3579/android-heart-rate-monitor
-* LinkedIn: http://www.linkedin.com/in/phishman3579
-* E-mail: phishman3579@gmail.com
-* Twitter: http://twitter.com/phishman3579
-
-## Support me with a donation
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=phishman3579%40gmail%2ecom&lc=US&item_name=Support%20open%20source&item_number=AndroidHeartRateMonitor&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_SM%2egif%3aNonHosted" target="_new"><img border="0" alt="Donate to this project" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"></a>
+* Created by Satyam Kumar
+* LinkedIn: https://www.linkedin.com/in/satyam-kumar-829a6b315
+* E-mail: satyamsin536@gmail.com
 
 ## Details
 The App uses the PreviewCallback mechanism to grab the latest image from the preview frame. It then processes the YUV420SP data and pulls out all the red pixel values.
